@@ -1,3 +1,2 @@
-# FoodmineCourse
-
-Project made for the Angular Food Mine course
+# Restaurant website with Angular
+Restaurant website made with Angular
